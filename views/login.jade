@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  a(href='/auth/github') sign into github
+  if username
+    p hey there, #{username}
+    br
+    br
+    p your repos: 
+    each repo in repos
+      a(href="#{ repo.url }") #{ repo.name }
+      br
+      p #{ repo.description }
