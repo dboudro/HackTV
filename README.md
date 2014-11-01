@@ -41,6 +41,9 @@ HackTV
 ####For Streamers
  - achievements / celebrity users
 
+####Misc
+ - setup streaming server on Intel Galileo
+
 ---
 
 BrainStorming
