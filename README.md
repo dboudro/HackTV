@@ -61,4 +61,4 @@ BrainStorming
 
 
 
-*created at YaleHack '14 by Max Lever, Arnold Chang, and Dylan *
+*created at YaleHack '14 by Max Lever, Arnold Chang, and Dylan Boudro *
