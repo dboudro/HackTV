@@ -25,7 +25,7 @@ HackTV
  - streamer journals (prints out time coding, keystrokes, etc)
 
 ### Implementation
-- http://nitros.io ?
+- http://nitrous.io ?
 - https://developers.google.com/youtube/v3/live/
 - https://obsproject.com/ --used for Video Streaming
 
