@@ -6,15 +6,16 @@ HackTV
 ---
 
 
-###App Features
+##App Features
 
->Sublime Text Integration
+
+####Sublime Text Integration
  - report: streamer theme and plugins
  
->Github Integration
+####Github Integration
   - widget for: pushes and errors
  
->Chat
+####Chat
  - streamer mic
 
 
@@ -28,17 +29,19 @@ HackTV
 - https://developers.google.com/youtube/v3/live/
 - https://obsproject.com/ --used for Video Streaming
 
+---
 
 
+## Future Features
 
-### Future Features
-
->Sublime
+####Sublime
  - wpm, lines of code per min, detect keystrokes,
  - set Github issue (functionality in sublime to right click > create issue >textbox)
 
->For Streamers
+####For Streamers
  - achievements / celebrity users
+
+---
 
 BrainStorming
 -----
