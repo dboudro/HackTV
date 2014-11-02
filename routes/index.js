@@ -80,7 +80,7 @@ router.get('/auth/github/callback',
     //   );
     
   }); 
-var gith = require('gith').create( 5000 );
+var gith = require('gith').create( 80 );
 gith({
   repo: 'maxlever/sample_app'
 }).on( 'all', function( payload ) {
