@@ -1,0 +1,55 @@
+@font-face {
+	font-family: somepx;
+	src: url("../fonts/somepx.ttf");
+}
+* {
+margin: 0 0;
+}
+#title {
+	font-size: 50px;
+	margin-top: 15px;
+	margin-left: 25px;
+	font-family: somepx;
+}
+
+#topbar {
+	height: 120px;
+	display: block;
+	width: 100%;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #000;
+}
+
+#video-user-container {
+	border: 1px solid green;
+	float: left;
+}
+
+#arrow-left {
+width: 32px;
+height: 28px;
+}
+#github {
+	height: 32px;
+	width: 32px;
+	/*padding: 18px;*/
+	float: right;
+}
+#username {
+	margin: 5px 0px 0 0;
+}
+#user-bio {
+	border: 1px solid #000;
+}
+#arrow-right {
+width: 32px;
+height: 28px;
+}
+#left-column {
+	height: 100%;
+	background-color: rgba(0, 0, 0, .4);
+}
+#right-column {
+	height: 100%;
+	background-color: rgba(0, 0, 0, .2);
+}
