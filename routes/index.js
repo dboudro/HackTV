@@ -84,9 +84,9 @@ var gith = require('gith').create( 5000 );
 gith({
   repo: 'maxlever/sample_app'
 }).on( 'all', function( payload ) {
-  console.log( 'Post-receive happened!' );
+    res.render('index', { title: payload })
 });
 router.post ('/webhook', function(req, res) {
-    res.render('index', { title: res.ref })
+    // res.render('index', { title: req })
 });
 module.exports = router;
