@@ -5,6 +5,7 @@
 * {
 margin: 0 0;
 }
+/* * * * * * HEADER * * * * * */
 #title {
 	font-size: 50px;
 	margin-top: 15px;
@@ -18,11 +19,6 @@ margin: 0 0;
 	width: 100%;
 	padding-bottom: 40px;
 	border-bottom: 1px solid #000;
-}
-
-#video-user-container {
-	border: 1px solid green;
-	float: left;
 }
 
 #arrow-left {
@@ -41,15 +37,23 @@ height: 28px;
 #user-bio {
 	border: 1px solid #000;
 }
+/* * * * * * START OF BODY * * * * * */
 #arrow-right {
 width: 32px;
 height: 28px;
 }
+#clip_embed_player_flash {
+	margin: 0 auto;
+}
 #left-column {
 	height: 100%;
-	background-color: rgba(0, 0, 0, .4);
+
+}
+#video-column {
+	height: 100%;
+
 }
 #right-column {
 	height: 100%;
-	background-color: rgba(0, 0, 0, .2);
+
 }
