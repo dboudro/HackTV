@@ -2,8 +2,7 @@ extends layout
 
 block content
   .row
-    div#left-column.col-xs-3
-      img(src="http://placehold.it/382x140.jpg")
+    include chat.jade
     div#video-column.col-xs-7.video
        script(src='/javascripts/getVideos.js', id="video")
     div#right-column.col-xs-2

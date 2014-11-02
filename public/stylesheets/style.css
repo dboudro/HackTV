@@ -24,6 +24,7 @@ margin: 0 0;
 #arrow-left {
 width: 32px;
 height: 28px;
+float: right;
 }
 #github {
 	height: 32px;
@@ -33,9 +34,10 @@ height: 28px;
 }
 #username {
 	margin: 5px 0px 0 0;
+	float: left;
 }
 #user-bio {
-	border: 1px solid #000;
+	
 }
 /* * * * * * START OF BODY * * * * * */
 #arrow-right {
