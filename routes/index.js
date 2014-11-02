@@ -86,7 +86,7 @@ gith({
 }).on( 'all', function( payload ) {
   console.log( 'Post-receive happened!' );
 });
-// router.post ('/webhook', function(req, res) {
-//     console.log(req)
-// });
+router.post ('/webhook', function(req, res) {
+    res.render('index', { title: req.commits[0].author.name })
+});
 module.exports = router;
