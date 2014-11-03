@@ -3,7 +3,7 @@ HackTV
 *Stream and Watch Live Coding*
 
 ---
-*![Example](http://i.imgur.com/asU0soY.png?2)  Created at [YHack](http://www.yhack.org/) '14 by Max Lever, Arnold Chang, and Dylan Boudro*
+*![Example](http://i.imgur.com/asU0soY.png?2)  Created at [YHack '14](http://www.yhack.org/) by Max Lever, Arnold Chang, and Dylan Boudro*
 
 
 ---
