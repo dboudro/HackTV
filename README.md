@@ -28,6 +28,7 @@ HackTV
 - http://nitrous.io ?
 - https://developers.google.com/youtube/v3/live/
 - https://obsproject.com/ --used for Video Streaming
+- https://github.com/justintv/Twitch-API
 
 ---
 
