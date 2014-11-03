@@ -3,7 +3,7 @@ HackTV
 *Stream and Watch Live Coding*
 
 ---
-*![Example](http://i.imgur.com/asU0soY.png?1)Created at [YHack](http://www.yhack.org/) '14*
+*![Example](http://i.imgur.com/asU0soY.png?2)  Created at [YHack](http://www.yhack.org/) '14 by Max Lever, Arnold Chang, and Dylan Boudro*
 
 
 ---
@@ -67,4 +67,4 @@ BrainStorming
 
 
 
-*created at YaleHack '14 by Max Lever, Arnold Chang, and Dylan Boudro *
+
